@@ -1,0 +1,25 @@
+{
+  "name": "video_streaming_tests",
+  "version": "1.0.0",
+  "description": "Testing Platform for MERN connected Video/Media streaming, will likely include: mp4 streaming, gif streaming, and in the long run, camera/audio Live streaming with WebSocket",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "init": "^0.1.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jparris3213/MediaStreamTesting.git"
+  },
+  "author": "Jacob Parris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jparris3213/MediaStreamTesting/issues"
+  },
+  "homepage": "https://github.com/jparris3213/MediaStreamTesting#readme"
+}
